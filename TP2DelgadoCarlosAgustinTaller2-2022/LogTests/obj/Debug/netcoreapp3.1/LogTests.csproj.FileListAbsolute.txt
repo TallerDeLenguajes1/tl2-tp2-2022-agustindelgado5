@@ -1,0 +1,16 @@
+C:\Users\p\source\repos\TP2DelgadoCarlosAgustinTaller2-2022\LogTests\bin\Debug\netcoreapp3.1\nlog.config
+C:\Users\p\source\repos\TP2DelgadoCarlosAgustinTaller2-2022\LogTests\bin\Debug\netcoreapp3.1\LogTests.exe
+C:\Users\p\source\repos\TP2DelgadoCarlosAgustinTaller2-2022\LogTests\bin\Debug\netcoreapp3.1\LogTests.deps.json
+C:\Users\p\source\repos\TP2DelgadoCarlosAgustinTaller2-2022\LogTests\bin\Debug\netcoreapp3.1\LogTests.runtimeconfig.json
+C:\Users\p\source\repos\TP2DelgadoCarlosAgustinTaller2-2022\LogTests\bin\Debug\netcoreapp3.1\LogTests.runtimeconfig.dev.json
+C:\Users\p\source\repos\TP2DelgadoCarlosAgustinTaller2-2022\LogTests\bin\Debug\netcoreapp3.1\LogTests.dll
+C:\Users\p\source\repos\TP2DelgadoCarlosAgustinTaller2-2022\LogTests\bin\Debug\netcoreapp3.1\LogTests.pdb
+C:\Users\p\source\repos\TP2DelgadoCarlosAgustinTaller2-2022\LogTests\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\p\source\repos\TP2DelgadoCarlosAgustinTaller2-2022\LogTests\obj\Debug\netcoreapp3.1\LogTests.csprojAssemblyReference.cache
+C:\Users\p\source\repos\TP2DelgadoCarlosAgustinTaller2-2022\LogTests\obj\Debug\netcoreapp3.1\LogTests.AssemblyInfoInputs.cache
+C:\Users\p\source\repos\TP2DelgadoCarlosAgustinTaller2-2022\LogTests\obj\Debug\netcoreapp3.1\LogTests.AssemblyInfo.cs
+C:\Users\p\source\repos\TP2DelgadoCarlosAgustinTaller2-2022\LogTests\obj\Debug\netcoreapp3.1\LogTests.csproj.CoreCompileInputs.cache
+C:\Users\p\source\repos\TP2DelgadoCarlosAgustinTaller2-2022\LogTests\obj\Debug\netcoreapp3.1\LogTests.csproj.CopyComplete
+C:\Users\p\source\repos\TP2DelgadoCarlosAgustinTaller2-2022\LogTests\obj\Debug\netcoreapp3.1\LogTests.dll
+C:\Users\p\source\repos\TP2DelgadoCarlosAgustinTaller2-2022\LogTests\obj\Debug\netcoreapp3.1\LogTests.pdb
+C:\Users\p\source\repos\TP2DelgadoCarlosAgustinTaller2-2022\LogTests\obj\Debug\netcoreapp3.1\LogTests.genruntimeconfig.cache

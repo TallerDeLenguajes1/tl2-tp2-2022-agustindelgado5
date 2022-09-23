@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "H27nzZftNic+BNrAiRqNKXshni1YjOt2Q9g79Pd4sD+X3RxPMc9aNYLKf0luWGzYuw4NlwqO/7HxXUBDQ2yuAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\p\\source\\repos\\TP2DelgadoCarlosAgustinTaller2-2022\\Punto4\\Punto4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\p\\.nuget\\packages\\nlog\\5.0.4\\nlog.5.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

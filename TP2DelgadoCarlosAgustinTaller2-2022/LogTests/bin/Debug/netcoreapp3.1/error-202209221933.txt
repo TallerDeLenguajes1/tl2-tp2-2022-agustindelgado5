@@ -1,0 +1,1 @@
+2022-09-22 19:33:06.4756|INFO|LogTests.Program|Probando

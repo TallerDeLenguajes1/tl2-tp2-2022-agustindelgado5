@@ -1,0 +1,6 @@
+2022-09-22 20:00:27.2845|INFO|LogTests.Program|Probando
+2022-09-22 20:00:33.8178|INFO|LogTests.Program|Ejemplo de mensaje de información
+2022-09-22 20:00:33.8178|WARN|LogTests.Program|Ejemplo de mensaje de Warm
+2022-09-22 20:00:33.8178|ERROR|LogTests.Program|Ejemplo de mensaje de error|System.DivideByZeroException: Attempted to divide by zero.
+   at LogTests.Program.Main(String[] args) in C:\Users\p\source\repos\TP2DelgadoCarlosAgustinTaller2-2022\LogTests\Program.cs:line 17
+2022-09-22 20:00:34.6729|FATAL|LogTests.Program|Ejemplo de mensaje de error Fatal
